@@ -5,3 +5,4 @@ EthereumMinerProxy
 此版本暂时只支持SSL加密转发,为了安全,请使用SSL转发。
 如需自定义证书请将cert.pem和key.pem放在运行软件的目录
 将自动应用此目录下的证书,如不使用自定义证书,会使用默认证书.
+![image](https://user-images.githubusercontent.com/98011530/150160909-ddc11ce6-4e1e-4afa-a950-c7e346007f73.png)
