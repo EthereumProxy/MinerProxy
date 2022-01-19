@@ -7,3 +7,5 @@ EthereumMinerProxy
 将自动应用此目录下的证书,如不使用自定义证书,会使用默认证书.
 ![image](https://user-images.githubusercontent.com/98011530/150160909-ddc11ce6-4e1e-4afa-a950-c7e346007f73.png)
 ![image](https://user-images.githubusercontent.com/98011530/150164507-f0f39d5b-2e9c-4c6c-91fd-063595f56efb.png)
+
+QQ群:935777592
